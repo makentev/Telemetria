@@ -1,0 +1,974 @@
+apple
+banana
+cat
+dog
+hello
+mama
+world
+python
+code
+computer
+language
+programming
+keyboard
+light
+night
+table
+phone
+book
+tree
+house
+friend
+blue
+green
+red
+yellow
+orange
+car
+ball
+pencil
+book
+airplane
+sun
+moon
+stars
+sky
+rain
+cloud
+snow
+city
+country
+mountain
+river
+sea
+beach
+food
+coffee
+tea
+juice
+water
+milk
+bread
+butter
+cheese
+cake
+pie
+chocolate
+sugar
+salt
+peach
+grape
+lemon
+berry
+dog
+cat
+elephant
+tiger
+lion
+zebra
+fox
+bear
+wolf
+goat
+cow
+horse
+panda
+monkey
+shark
+whale
+dolphin
+rabbit
+hamster
+mouse
+rat
+giraffe
+kangaroo
+hippopotamus
+crocodile
+alligator
+octopus
+penguin
+parrot
+eagle
+hawk
+sparrow
+peacock
+owl
+snake
+lizard
+frog
+turtle
+crab
+lobster
+jellyfish
+apple
+banana
+orange
+grape
+watermelon
+strawberry
+blueberry
+raspberry
+pineapple
+peach
+cherry
+plum
+lemon
+lime
+coconut
+kiwi
+mango
+pomegranate
+fig
+avocado
+tomato
+potato
+carrot
+cucumber
+onion
+garlic
+lettuce
+cabbage
+broccoli
+cauliflower
+spinach
+pepper
+corn
+peas
+mushroom
+pumpkin
+bread
+butter
+cheese
+milk
+yogurt
+egg
+chicken
+beef
+pork
+fish
+shrimp
+salmon
+tuna
+rice
+pasta
+noodles
+pizza
+burger
+sandwich
+hotdog
+soup
+salad
+cake
+cookie
+chocolate
+candy
+ice cream
+honey
+sugar
+salt
+pepper
+coffee
+tea
+juice
+water
+soda
+lemonade
+wine
+beer
+whiskey
+vodka
+rum
+cocktail
+energy drink
+milkshake
+smoothie
+oatmeal
+cereal
+butter
+jam
+croissant
+bagel
+donut
+bacon
+sausage
+pancake
+waffle
+omelet
+mayonnaise
+ketchup
+mustard
+soy sauce
+vinegar
+olive oil
+parsley
+basil
+cinnamon
+nutmeg
+vanilla
+chili
+ginger
+clove
+cardamom
+turmeric
+coriander
+thyme
+rosemary
+oregano
+lavender
+saffron
+dill
+mint
+bubblegum
+marshmallow
+popcorn
+biscuits
+muffin
+brownie
+cheesecake
+pudding
+sorbet
+tart
+truffle
+almond
+walnut
+cashew
+hazelnut
+peanut
+pistachio
+sunflower seeds
+pumpkin seeds
+chia seeds
+flax seeds
+quinoa
+barley
+rye
+buckwheat
+couscous
+spaghetti
+lasagna
+ravioli
+dumplings
+sushi
+ramen
+taco
+burrito
+quesadilla
+nachos
+falafel
+hummus
+shawarma
+kebab
+caviar
+lobster
+crayfish
+oyster
+scallop
+clam
+squid
+seaweed
+anchovy
+capers
+mustard
+horseradish
+coleslaw
+sauerkraut
+kimchi
+pickles
+gherkin
+mozzarella
+cheddar
+parmesan
+brie
+gorgonzola
+stilton
+camembert
+feta
+ricotta
+cottage cheese
+cream cheese
+buttermilk
+sour cream
+yogurt
+kefir
+tofu
+tempeh
+seitan
+soy milk
+almond milk
+coconut milk
+rice milk
+oat milk
+whey protein
+protein shake
+granola
+trail mix
+energy bar
+sports drink
+kombucha
+green tea
+black tea
+herbal tea
+chai
+espresso
+latte
+cappuccino
+americano
+mocha
+macchiato
+affogato
+frappe
+irish coffee
+turkish coffee
+matcha
+bubble tea
+horchata
+root beer
+ginger ale
+tonic water
+cola
+sprite
+pepsi
+dr pepper
+fanta
+mountain dew
+red bull
+monster
+rockstar
+gatorade
+powerade
+vitamin water
+whale
+dolphin
+seal
+walrus
+polar bear
+grizzly bear
+brown bear
+black bear
+cheetah
+jaguar
+leopard
+lynx
+bobcat
+cougar
+coyote
+hyena
+meerkat
+warthog
+gazelle
+buffalo
+bison
+rhinoceros
+hippopotamus
+giraffe
+ostrich
+emu
+cassowary
+flamingo
+pelican
+stork
+heron
+crane
+swallow
+woodpecker
+hummingbird
+robin
+sparrow
+canary
+parakeet
+cockatoo
+macaw
+toucan
+vulture
+falcon
+seagull
+albatross
+puffin
+pigeon
+dove
+swan
+goose
+duck
+turkey
+chicken
+rooster
+peafowl
+partridge
+quail
+guinea fowl
+penguin
+orca
+beluga
+narwhal
+manatee
+dugong
+stingray
+manta ray
+eel
+catfish
+goldfish
+betta fish
+clownfish
+piranha
+barracuda
+swordfish
+marlin
+tuna
+salmon
+trout
+cod
+halibut
+flounder
+mackerel
+anchovy
+sardine
+herring
+octopus
+squid
+cuttlefish
+nautilus
+coral
+sea anemone
+starfish
+sea urchin
+sea cucumber
+jellyfish
+krill
+plankton
+barnacle
+lobster
+crab
+shrimp
+prawn
+mussel
+clam
+scallop
+oyster
+snail
+slug
+worm
+earthworm
+leech
+butterfly
+moth
+bee
+wasp
+hornet
+ant
+termite
+grasshopper
+cricket
+locust
+katydid
+cicada
+dragonfly
+damselfly
+ladybug
+beetle
+firefly
+cockroach
+mantis
+stick insect
+centipede
+millipede
+scorpion
+tarantula
+black widow
+wolf spider
+brown recluse
+tick
+flea
+mosquito
+fly
+gnat
+housefly
+fruit fly
+maggot
+silverfish
+earwig
+aphid
+caterpillar
+grub
+larva
+nymph
+pupa
+hatchling
+fawn
+calf
+cub
+kitten
+puppy
+chick
+duckling
+gosling
+cygnet
+foal
+colt
+filly
+joey
+tadpole
+pollywog
+piglet
+lamb
+kid
+cria
+leveret
+eyas
+fry
+fingerling
+spat
+squab
+nestling
+hatchling
+spore
+seedling
+sapling
+sprout
+shoot
+bud
+blossom
+flower
+petal
+leaf
+stem
+root
+bark
+trunk
+branch
+twig
+vine
+moss
+fern
+shrub
+bush
+hedge
+tree
+pine
+oak
+maple
+birch
+willow
+aspen
+poplar
+cedar
+spruce
+fir
+redwood
+sequoia
+cypress
+mahogany
+ebony
+teak
+bamboo
+palm
+mangrove
+baobab
+acacia
+eucalyptus
+olive
+fig
+almond
+hazelnut
+walnut
+chestnut
+pecan
+cashew
+pistachio
+peanut
+coconut
+date
+banana
+mango
+papaya
+guava
+passionfruit
+pomegranate
+kiwi
+lychee
+rambutan
+durian
+jackfruit
+persimmon
+grape
+raisin
+currant
+gooseberry
+mulberry
+blackberry
+raspberry
+blueberry
+cranberry
+strawberry
+boysenberry
+loganberry
+cloudberry
+salmonberry
+cherry
+plum
+peach
+nectarine
+apricot
+pear
+quince
+apple
+orange
+mandarin
+tangerine
+clementine
+satsuma
+grapefruit
+pomelo
+lime
+lemon
+kumquat
+bergamot
+yuzu
+citron
+sour cherry
+black cherry
+wild cherry
+chokecherry
+serviceberry
+hackberry
+elderberry
+huckleberry
+dogwood
+rowan
+hawthorn
+medlar
+loquat
+sapote
+soursop
+cherimoya
+custard apple
+sweetsop
+breadfruit
+camu camu
+jabuticaba
+ackee
+tamarind
+carambola
+starfruit
+bilberry
+lingonberry
+bearberry
+caper
+fig
+prickly pear
+dragonfruit
+pitaya
+cactus pear
+watermelon
+honeydew
+cantaloupe
+muskmelon
+galia melon
+canary melon
+bitter melon
+bottle gourd
+snake gourd
+ash gourd
+ridged gourd
+luffa
+zucchini
+squash
+pumpkin
+butternut squash
+acorn squash
+spaghetti squash
+delicata squash
+chayote
+cucumber
+gherkin
+pickle
+radish
+daikon
+turnip
+rutabaga
+parsnip
+carrot
+beetroot
+onion
+garlic
+shallot
+leek
+scallion
+chive
+fennel
+celery
+asparagus
+artichoke
+endive
+escarole
+chicory
+radicchio
+spinach
+kale
+collard greens
+mustard greens
+swiss chard
+bok choy
+tatsoi
+watercress
+arugula
+lettuce
+romaine
+iceberg
+butterhead
+oak leaf
+lollo rosso
+mizuna
+frisée
+cabbage
+savoy cabbage
+red cabbage
+napa cabbage
+brussels sprouts
+broccoli
+cauliflower
+broccolini
+broccoli rabe
+kohlrabi
+zucchini
+eggplant
+tomato
+pepper
+bell pepper
+chili pepper
+jalapeño
+habanero
+serrano
+poblano
+banana pepper
+cayenne
+ghost pepper
+carolina reaper
+scorpion pepper
+paprika
+horseradish
+wasabi
+ginger
+turmeric
+galangal
+cardamom
+cinnamon
+clove
+nutmeg
+mace
+star anise
+anise
+fennel seed
+coriander
+cumin
+caraway
+dill
+parsley
+basil
+oregano
+rosemary
+thyme
+sage
+lavender
+marjoram
+tarragon
+bay leaf
+fenugreek
+sumac
+za'atar
+harissa
+curry
+mustard
+saffron
+vanilla
+chocolate
+cocoa
+coffee
+tea
+matcha
+yerba mate
+kombucha
+wine
+beer
+vodka
+whiskey
+rum
+gin
+brandy
+liqueur
+absinthe
+vermouth
+bitters
+cider
+mead
+sangria
+punch
+cocktail
+mocktail
+smoothie
+milkshake
+hot chocolate
+espresso
+latte
+cappuccino
+mocha
+americano
+frappuccino
+bubble tea
+soda
+cola
+lemonade
+iced tea
+energy drink
+sports drink
+mineral water
+tonic water
+club soda
+ambulance
+anchor
+archery
+asteroid
+backpack
+balloon
+banjo
+barn
+barrel
+basket
+battery
+beacon
+bell
+binoculars
+boomerang
+bowling
+bracelet
+bridge
+bucket
+cabin
+cactus
+calendar
+candle
+cannon
+carousel
+castle
+cathedral
+chimney
+compass
+crayon
+crown
+curtain
+dagger
+diamond
+dome
+doughnut
+dragon
+drone
+dynamite
+easel
+elevator
+escalator
+fence
+fireworks
+fishing
+flashlight
+fountain
+frying pan
+galleon
+gargoyle
+glacier
+gondola
+grill
+guillotine
+gymnastics
+hammock
+harp
+hatch
+hologram
+hot air balloon
+hourglass
+hoverboard
+iceberg
+igloo
+incense
+javelin
+jukebox
+kaleidoscope
+kayak
+keyhole
+ladder
+lantern
+lighthouse
+locket
+loom
+magnifying glass
+marionette
+maze
+megaphone
+metronome
+microscope
+monorail
+mosaic
+motorcycle
+mug
+mushroom
+observatory
+origami
+paintbrush
+parachute
+parasol
+pegasus
+pendulum
+periscope
+phonograph
+pinwheel
+pirate
+plow
+portcullis
+projector
+pyramid
+quilt
+rainbow
+rattle
+record player
+rifle
+roller coaster
+rope
+saddle
+satellite
+saxophone
+scarecrow
+scroll
+seesaw
+scepter
+scooter
+semaphore
+shovel
+skateboard
+skyscraper
+slingshot
+snowboard
+spaceship
+spinning wheel
+spotlight
+sprinkler
+sundial
+sword
+telescope
+thermometer
+throne
+tornado
+trampoline
+treasure chest
+tripod
+trophy
+trumpet
+typewriter
+unicycle
+urn
+violin
+wagon
+walkie-talkie
+waterfall
+weathervane
+whistle
+windmill
+zeppelin
